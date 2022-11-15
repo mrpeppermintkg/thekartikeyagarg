@@ -1,6 +1,6 @@
 ### Hi there 👋
 <p align="center">
-  <img src="https://i.gifer.com/39Cg.gif=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img src="39Cg.gif"/>
 </p>
 * 👂 My name is Kartikeya Garg
 * 🔭 I’m currently working as DevOps Engineer
