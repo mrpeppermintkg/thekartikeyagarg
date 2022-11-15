@@ -10,4 +10,4 @@
 * ❤️ I love Singing,Travelling,Drawing
 * ⚡ Fun fact: ...
 
-[![Kartikeya's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrpepeppermintkg)](https://github.com/anuraghazra/github-readme-stats)
+[![Kartikeya's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrpepeppermintkg)](https://github.com/mrpepeppermintkg github-readme-stats)
