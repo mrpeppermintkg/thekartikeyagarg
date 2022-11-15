@@ -1,7 +1,7 @@
 ### Hi there 👋
 <p align="center">
   <img src="39Cg.gif" width="600" 
-     height="600" />
+     height="400" />
 </p>
 * 👂 My name is Kartikeya Garg
 * 🔭 I’m currently working as DevOps Engineer
