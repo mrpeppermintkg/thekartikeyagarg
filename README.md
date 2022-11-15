@@ -1,6 +1,6 @@
 ### Hi there 👋
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img src="https://i.gifer.com/39Cg.gif=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
 * 👂 My name is Kartikeya Garg
 * 🔭 I’m currently working as DevOps Engineer
