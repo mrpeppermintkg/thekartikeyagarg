@@ -18,17 +18,17 @@
 
 ### :hammer_and_wrench: Cloud Platforms:
 <div>
-  <img src="/images-main/aws.gif" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="/images-main/google.gif" title="GCP" alt="GCP" width="40" height="40"/>&nbsp;
-  <img src="/images-main/azure.gif" title="AZURE" **alt="AZURE" width="40" height="40"/>
+  <img src="/images-main/aws.gif" title="AWS" alt="AWS" width="70" height="70"/>&nbsp;
+  <img src="/images-main/google.gif" title="GCP" alt="GCP" width="70" height="70"/>&nbsp;
+  <img src="/images-main/azure.gif" title="AZURE" **alt="AZURE" width="70" height="70"/>
 </div>
 
 ### :hammer_and_wrench: Monitoring:
 <div>
-  <img src="/images-main/prom.png" title="Prometheus" alt="Prometheus" width="40" height="40"/>&nbsp;
+  <img src="/images-main/prom.png" title="Prometheus" alt="Prometheus" width="70" height="70"/>&nbsp;
 </div>
 
 ### :hammer_and_wrench: Databases:
 <div>
-  <img src="/images-main/sql.gif" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
+  <img src="/images-main/sql.gif" title="SQL" alt="SQL" width="70" height="70"/>&nbsp;
 </div>
