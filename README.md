@@ -6,7 +6,7 @@
 * 👂 My name is Kartikeya Garg
 * 🔭 I’m currently working as DevOps Engineer
 * 🌱 I’m currently learning Cloud and DevOps Technologies
-* 📫 How to reach me: Facebook(http://www.facebook.com/kartikeya.garg.12) , Instagram(https://www.instagram.com/mr.peppermint.kg)
+* 📫 How to reach me: Facebook(http://www.facebook.com/kartikeya.garg.07) , Instagram(https://www.instagram.com/mr.peppermint.kg)
 * ❤️ I love Singing,Travelling,Drawing
 * ⚡ Fun fact: ...
 
